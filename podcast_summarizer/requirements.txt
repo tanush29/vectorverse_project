@@ -1,0 +1,11 @@
+
+streamlit
+crewai
+crewai-tools
+opik
+weaviate-client
+python-dotenv
+openai
+yt-dlp
+whisper
+ffmpeg-python
